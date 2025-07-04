@@ -13,6 +13,11 @@ dl {
   margin-bottom: 0 !important;
 }
 
-.Rocket-image{
-  margin-top: 100px;
+.Rocket-image {
+  margin-top: 70px;
+}
+
+.bg-gradient-custom {
+  background: linear-gradient(to top, #fffaf5, #ffffff, #fffaf5);
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 96.69%);
 }
