@@ -176,3 +176,12 @@ dl {
   background-color: #fab758 !important;
   width: fit-content;
 }
+
+h2{
+  font-size: var(--text-base);
+  color: #aab0bc;
+}
+
+h3{
+  max-width: var(--container-xl)
+}
